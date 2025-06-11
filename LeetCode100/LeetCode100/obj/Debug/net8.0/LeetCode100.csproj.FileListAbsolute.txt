@@ -1,0 +1,15 @@
+E:\git\git-test\LeetCode100\LeetCode100\bin\Debug\net8.0\LeetCode100.exe
+E:\git\git-test\LeetCode100\LeetCode100\bin\Debug\net8.0\LeetCode100.deps.json
+E:\git\git-test\LeetCode100\LeetCode100\bin\Debug\net8.0\LeetCode100.runtimeconfig.json
+E:\git\git-test\LeetCode100\LeetCode100\bin\Debug\net8.0\LeetCode100.dll
+E:\git\git-test\LeetCode100\LeetCode100\bin\Debug\net8.0\LeetCode100.pdb
+E:\git\git-test\LeetCode100\LeetCode100\obj\Debug\net8.0\LeetCode100.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\git-test\LeetCode100\LeetCode100\obj\Debug\net8.0\LeetCode100.AssemblyInfoInputs.cache
+E:\git\git-test\LeetCode100\LeetCode100\obj\Debug\net8.0\LeetCode100.AssemblyInfo.cs
+E:\git\git-test\LeetCode100\LeetCode100\obj\Debug\net8.0\LeetCode100.csproj.CoreCompileInputs.cache
+E:\git\git-test\LeetCode100\LeetCode100\obj\Debug\net8.0\LeetCode100.sourcelink.json
+E:\git\git-test\LeetCode100\LeetCode100\obj\Debug\net8.0\LeetCode100.dll
+E:\git\git-test\LeetCode100\LeetCode100\obj\Debug\net8.0\refint\LeetCode100.dll
+E:\git\git-test\LeetCode100\LeetCode100\obj\Debug\net8.0\LeetCode100.pdb
+E:\git\git-test\LeetCode100\LeetCode100\obj\Debug\net8.0\LeetCode100.genruntimeconfig.cache
+E:\git\git-test\LeetCode100\LeetCode100\obj\Debug\net8.0\ref\LeetCode100.dll
